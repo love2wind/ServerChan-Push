@@ -1,4 +1,4 @@
-## Serve酱自动推送热门
+## Serve酱自动推送热门 plus
 
 > 🔝 通过Serve酱Tubo自动发送微博、知乎、v2ex热门内容到微信，可配置 workflow 的触发条件为 schedule，实现周期性定时发送热门内容。
 
