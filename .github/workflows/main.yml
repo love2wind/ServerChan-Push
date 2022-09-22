@@ -2,7 +2,7 @@ name: 'ServerChan Push News'
 
 on:
   schedule:
-    - cron: '05 10 * * *'
+    - cron: '0 10,16,22 * * *'
 
 env:
   TZ: Asia/Shanghai
